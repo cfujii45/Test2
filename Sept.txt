@@ -11,3 +11,5 @@ def new(row, col):
 	t= row
 	c = col
 return; 
+
+Getting the hang of this a bit more
