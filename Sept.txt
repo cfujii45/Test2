@@ -3,5 +3,11 @@ Line 2
 
 Redoing test
 
-
+add this line
 This is still not sinking in for me. 
+
+
+def new(row, col): 
+	t= row
+	c = col
+return; 
