@@ -1,13 +1,13 @@
 ﻿test
 Line 2
 
-
+# accepted ours because we need to be able to state we understand. Will change when understood.
 Yes, this is still not sinking in
 
 
-def new(row, col): 
+def new(row, col):
 	t= row
 	c = col
-return; 
+return;
 
 Getting the hang of this a bit more
