@@ -3,7 +3,7 @@ Line 2
 
 # accepted ours because we need to be able to state we understand. Will change when understood.
 Yes, this is still not sinking in
-
+# cfujii45: Got it. 
 
 def new(row, col):
 	t= row
