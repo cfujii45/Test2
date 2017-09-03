@@ -1,10 +1,8 @@
 ﻿test
 Line 2
 
-Redoing test
 
-add this line
-This is still not sinking in for me. 
+Yes, this is still not sinking in
 
 
 def new(row, col): 
